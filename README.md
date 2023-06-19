@@ -5,7 +5,7 @@
 - My motivaton for creating this study guide webpage was an eagerness to learn and apply some of teh basic fundamentals in coding. 
 - I built this project to document and reference what I learned in the prework preparation for this course.
 - This project allowed familiarity and hands on application with the tools, language, and syntax of Git, HTML, CSS< and JavaScript.
-- I learned that I have been exposed to many of the concepts demonstarted in the prework, withut actually knowing the 'why' and fundamental building blocks.
+- I learned that I have been exposed to many of the concepts demonstrated in the prework, without actually knowing the 'why' and fundamental building blocks.
 
 ## Installation
 
